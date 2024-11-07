@@ -1,3 +1,9 @@
 spring:
   application:
     name: spring-security-master
+
+  security:
+    user:
+      name: admin1
+      password: admin1
+      roles: USER
